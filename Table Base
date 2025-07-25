@@ -1,6 +1,0 @@
-Table Base
-
-Table base is table with real data or Raw data collected from its source and containing the information needed 
-to answer a question or solve a specific problem. 
-The base table in this project is created from a combination of sales, customer, and item tables with the primary key at invoice_id .
-
